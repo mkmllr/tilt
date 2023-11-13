@@ -1,4 +1,5 @@
-# tilt
+# Tilt
+A simple tilt effect in vanilla js.
 
 ## Demo
 
